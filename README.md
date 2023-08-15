@@ -4,7 +4,7 @@ Infisical is an open-source, end-to-end encrypted secret management platform tha
 In infisical can using client or CLI.
 
 ### First Install CLI 
-[This Instalation Inficial] (https://infisical.com/docs/cli/overview)
+[This Instalation Inficial](https://infisical.com/docs/cli/overview)
 
 ### Next, Login Account Infisical
 
