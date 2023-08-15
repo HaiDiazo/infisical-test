@@ -1,4 +1,4 @@
-# Test Inficial
+## Inficial Environment
 
 Infisical is an open-source, end-to-end encrypted secret management platform that enables teams to easily manage and sync their environment variables.
 In infisical can using client or CLI.
