@@ -40,3 +40,5 @@ For running a project, must using infisical first like:
 infisical run --env=dev --path=/ -- python main.py   
 ```
 Then wala :sparkles: you can running a code without .env in your project
+
+Documentation all: [Infisical](https://infisical.com/docs/)
