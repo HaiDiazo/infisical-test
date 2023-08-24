@@ -39,6 +39,14 @@ For running a project, must using infisical first like:
 ```
 infisical run --env=dev --path=/ -- python main.py   
 ```
-Then wala :sparkles: you can running a code without .env in your project
 
+### Using service token
+
+If you using CLI in a server and imposible to login because all member using that server, don't worry. You can use a <strong><i>service token</i></strong>
+Service token make allowing to access secrets key into your account without login. How to use it? Use command in below
+```
+infisical run --domain=http://<server>:<port>/api --token=st.<number>.<number>.<number> -- go run main.go
+```
+
+Then wala :sparkles: you can running a code without .env in your project
 Documentation all: [Infisical](https://infisical.com/docs/)
